@@ -6,7 +6,8 @@ specified in the [DOT language](https://en.wikipedia.org/wiki/DOT_%28graph_descr
 
 This is a fork of the [GraphUI utility](https://code.google.com/p/enough/wiki/Graphui)
 from the [Enough project](https://code.google.com/p/enough/),
-originally developed by @sinelaw and @Peaker but abandoned since 2007.
+originally developed by [Noam Lewis](https://github.com/sinelaw)
+and [Eyal Lotem](https://github.com/Peaker), but abandoned since 2007.
 
 This repository was automatically exported from code.google.com/p/enough
 using the [Google Code Github Exporter](https://code.google.com/export-to-github/).
