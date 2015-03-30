@@ -4,7 +4,7 @@ A python-based visual [graph](https://en.wikipedia.org/wiki/Graph_%28mathematics
 It can create and edit [GraphViz](http://www.graphviz.org/) files
 specified in the [DOT language](https://en.wikipedia.org/wiki/DOT_%28graph_description_language%29).
 
-This is a fork of the [GraphUI utility](https://code.google.com/p/enough/wiki/Graphui)
+This is a fork of the **[GraphUI utility](https://code.google.com/p/enough/wiki/Graphui)**
 from the [Enough project](https://code.google.com/p/enough/),
 originally developed by [Noam Lewis](https://github.com/sinelaw)
 and [Eyal Lotem](https://github.com/Peaker), but abandoned since 2007.
